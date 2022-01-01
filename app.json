@@ -27,8 +27,7 @@
       "CUSTOM_ICON": {
         "description": "A custom icon to be displayed rather than the default"
         "required": false
-      }
-    },
+      },
     "buildpacks": [
       {
         "url": "heroku/python"
